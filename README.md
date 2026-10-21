@@ -1,2 +1,2 @@
 # TestPta1I3A
-Vytvoření úvodního repositáře.
+Ukázkový WPF projekt.
